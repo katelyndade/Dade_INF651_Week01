@@ -1,0 +1,1 @@
+This is my first project for my JavaScript class with Dave Gray! It follows a step by step project from MDN about changing an <h1> element to say Hello world, then additional steps included in the assignment to initialize, add, and commit using git. Thanks for looking!
